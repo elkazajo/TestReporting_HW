@@ -1,0 +1,69 @@
+00:03:39 INFO  MyLogs.info - Navigating to https://mail.ru/
+00:03:41 INFO  MyLogs.info - Clicking on username form
+00:03:42 INFO  MyLogs.info - Typing username: selenium.tester
+00:03:43 INFO  MyLogs.info - Pressing enter button
+01:22:30 INFO  MyLogs.info - Navigating to https://mail.ru/
+01:22:33 INFO  MyLogs.info - Clicking on username form
+01:22:34 INFO  MyLogs.info - Saved screenshot: screenshots/scr124537466202800
+01:22:34 INFO  MyLogs.info - Typing username: selenium.tester
+01:22:34 INFO  MyLogs.info - Saved screenshot: screenshots/scr124537945228000
+01:22:34 INFO  MyLogs.info - Clicking log in button
+01:22:35 INFO  MyLogs.info - Saved screenshot: screenshots/scr124538489893400
+01:22:35 INFO  MyLogs.info - Clicking on password form
+01:22:35 INFO  MyLogs.info - Saved screenshot: screenshots/scr124539134662600
+01:22:35 INFO  MyLogs.info - Entering password: PRARppro3*u3
+01:22:36 INFO  MyLogs.info - Saved screenshot: screenshots/scr124539503394400
+01:22:36 INFO  MyLogs.info - Clicking enter password button
+01:22:39 INFO  MyLogs.info - Saved screenshot: screenshots/scr124542432374600
+01:30:29 INFO  MyLogs.info - Navigating to https://mail.ru/
+01:30:32 INFO  MyLogs.info - Clicking on username form
+01:30:33 INFO  MyLogs.info - Saved screenshot: screenshots/scr125016710995900
+01:30:33 INFO  MyLogs.info - Typing username: selenium.tester
+01:30:33 INFO  MyLogs.info - Saved screenshot: screenshots/scr125017146257000
+01:30:33 INFO  MyLogs.info - Clicking log in button
+01:30:34 INFO  MyLogs.info - Saved screenshot: screenshots/scr125017723584700
+01:30:34 INFO  MyLogs.info - Clicking on password form
+01:30:34 INFO  MyLogs.info - Saved screenshot: screenshots/scr125018357887300
+01:30:34 INFO  MyLogs.info - Entering password: PRARppro3*u3
+01:30:35 INFO  MyLogs.info - Saved screenshot: screenshots/scr125018736974100
+01:30:35 INFO  MyLogs.info - Clicking enter password button
+01:30:35 INFO  MyLogs.info - Saved screenshot: screenshots/scr125019102857500
+01:34:40 INFO  MyLogs.info - Navigating to https://mail.ru/
+01:34:43 INFO  MyLogs.info - Clicking on username form
+01:34:44 INFO  MyLogs.info - Saved screenshot: screenshots/scr125267588485000
+01:34:44 INFO  MyLogs.info - Typing username: selenium.tester
+01:34:44 INFO  MyLogs.info - Saved screenshot: screenshots/scr125267982991600
+01:34:44 INFO  MyLogs.info - Clicking log in button
+01:34:45 INFO  MyLogs.info - Saved screenshot: screenshots/scr125268492234000
+01:34:45 INFO  MyLogs.info - Clicking on password form
+01:34:45 INFO  MyLogs.info - Saved screenshot: screenshots/scr125269136899700
+01:34:45 INFO  MyLogs.info - Entering password: PRARppro3*u3
+01:34:46 INFO  MyLogs.info - Saved screenshot: screenshots/scr125269487851500
+01:34:46 INFO  MyLogs.info - Clicking enter password button
+01:34:46 INFO  MyLogs.info - Saved screenshot: screenshots/scr125269838591200
+01:37:04 INFO  MyLogs.info - Navigating to https://mail.ru/
+01:37:06 INFO  MyLogs.info - Clicking on username form
+01:37:07 INFO  MyLogs.info - Saved screenshot: screenshots/scr125410537317600
+01:37:07 INFO  MyLogs.info - Typing username: selenium.tester
+01:37:07 INFO  MyLogs.info - Saved screenshot: screenshots/scr125410959334700
+01:37:07 INFO  MyLogs.info - Clicking log in button
+01:37:08 INFO  MyLogs.info - Saved screenshot: screenshots/scr125411484093200
+01:37:08 INFO  MyLogs.info - Clicking on password form
+01:37:08 INFO  MyLogs.info - Saved screenshot: screenshots/scr125412113986700
+01:37:08 INFO  MyLogs.info - Entering password: PRARppro3*u3
+01:37:09 INFO  MyLogs.info - Saved screenshot: screenshots/scr125412497483500
+01:37:09 INFO  MyLogs.info - Clicking enter password button
+01:37:09 INFO  MyLogs.info - Saved screenshot: screenshots/scr125412851880200
+01:39:54 INFO  MyLogs.info - Navigating to https://mail.ru/
+01:39:56 INFO  MyLogs.info - Clicking on username form
+01:39:57 INFO  MyLogs.info - Saved screenshot: screenshots/scr125580770818300
+01:39:57 INFO  MyLogs.info - Typing username: selenium.tester
+01:39:57 INFO  MyLogs.info - Saved screenshot: screenshots/scr125581210457800
+01:39:57 INFO  MyLogs.info - Clicking log in button
+01:39:58 INFO  MyLogs.info - Saved screenshot: screenshots/scr125581742248700
+01:39:58 INFO  MyLogs.info - Clicking on password form
+01:39:59 INFO  MyLogs.info - Saved screenshot: screenshots/scr125582385485400
+01:39:59 INFO  MyLogs.info - Entering password: PRARppro3*u3
+01:39:59 INFO  MyLogs.info - Saved screenshot: screenshots/scr125582764476600
+01:39:59 INFO  MyLogs.info - Clicking enter password button
+01:39:59 INFO  MyLogs.info - Saved screenshot: screenshots/scr125583116019500
