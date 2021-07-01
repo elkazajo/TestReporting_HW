@@ -30,8 +30,8 @@ public class MailLoginStep {
     public void user_navigates_to_the_mail_page() {
         try {
             loginPage.openPage();
-        } catch (io.cucumber.java.PendingException ignored) {
-            MyLogs.error("io.cucumber.java.PendingException");
+        } catch (io.cucumber.java.PendingException e) {
+            MyLogs.error("Couldn't open the page", e);
         }
     }
 
@@ -39,8 +39,8 @@ public class MailLoginStep {
     public void page_opens_enters_username() {
         try {
             loginPage.inputUserName(user.getName());
-        } catch (io.cucumber.java.PendingException ignored) {
-            MyLogs.error("io.cucumber.java.PendingException");
+        } catch (io.cucumber.java.PendingException e) {
+            MyLogs.error("Couldn't enter user name", e);
         }
 
     }
@@ -49,8 +49,8 @@ public class MailLoginStep {
     public void presses_enter_button() {
         try {
             loginPage.clickLoginButton();
-        } catch (io.cucumber.java.PendingException ignored) {
-            MyLogs.error("io.cucumber.java.PendingException");
+        } catch (io.cucumber.java.PendingException e) {
+            MyLogs.error("Couldn't press enter button", e);
         }
     }
 
@@ -58,8 +58,8 @@ public class MailLoginStep {
     public void when_the_password_form_appears_enters_password() {
         try {
             loginPage.inputPassword(user.getPassword());
-        } catch (io.cucumber.java.PendingException ignored) {
-            MyLogs.error("io.cucumber.java.PendingException");
+        } catch (io.cucumber.java.PendingException e) {
+            MyLogs.error("Couldn't enter password", e);
         }
     }
 
@@ -67,8 +67,8 @@ public class MailLoginStep {
     public void presses_login_button_to_enter_mail_s_main_page() {
         try {
             loginPage.enterPasswordButton();
-        } catch (io.cucumber.java.PendingException ignored) {
-            MyLogs.error("io.cucumber.java.PendingException");
+        } catch (io.cucumber.java.PendingException e) {
+            MyLogs.error("Couldn't press the login button", e);
         }
     }
 

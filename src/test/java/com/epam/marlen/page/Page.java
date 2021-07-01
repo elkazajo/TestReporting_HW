@@ -1,7 +1,6 @@
 package com.epam.marlen.page;
 
 import com.epam.marlen.report.MyLogs;
-import org.apache.logging.log4j.core.util.FileUtils;
 import org.aspectj.util.FileUtil;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.PageFactory;
